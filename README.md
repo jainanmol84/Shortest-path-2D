@@ -21,7 +21,7 @@
 
 4. **## Build For Linux user ##**
 	1. **Clone the repository**:
-		1. `git clone https://github.com/jainanmol84/Shotest-Path-2D`
+		1. `git clone https://github.com/jainanmol84/Shotest-Path-2D.git`
 		2. `cd Shortest-Path-2D` 
 	2. **Install sfml**: `sudo apt-get install libsfml-dev`
 	3. **Complile path.cpp** :
