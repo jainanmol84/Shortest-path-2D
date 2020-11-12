@@ -18,7 +18,7 @@
 
 
 4. **## Build For Linux user ##**
-	1. **Download the code zip then unzip at the location 'Home'**:
+	1. **Download the zip file then unzip at the location 'Home'**:
 		1. `cd Shortest-Path-2D` 
 	2. **Install sfml**: `sudo apt-get install libsfml-dev`
 	3. **Complile path.cpp** :
