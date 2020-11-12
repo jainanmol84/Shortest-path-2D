@@ -19,7 +19,7 @@
 	3. Each cell has information of its parent and its state of exploration
 
 
-## Build ##
+4. **## Build ##**
 
 **For Linux user:-**
 	1. **Clone the repository**:
