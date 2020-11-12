@@ -1,7 +1,5 @@
 # Shortest-path-2D
 
-## Implementation ##
-
 1. **Color coding** :
 	1. *Open cells* - White
 	2. *Blocked cells* - Black
@@ -20,9 +18,8 @@
 
 
 4. **## Build For Linux user ##**
-	1. **Clone the repository**:
-		1. `git clone https://github.com/jainanmol84/Shotest-Path-2D.git`
-		2. `cd Shortest-Path-2D` 
+	1. **Download the code zip then unzip at the location 'Home'**:
+		1. `cd Shortest-Path-2D` 
 	2. **Install sfml**: `sudo apt-get install libsfml-dev`
 	3. **Complile path.cpp** :
 		1. `g++ path.cpp -std=c++11 -lsfml-window -lsfml-system -lsfml-graphics`
