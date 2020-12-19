@@ -1,15 +1,25 @@
 # Shortest-path-2D
 
 1. **Color coding** :
-	1. *Open cells* - White
-	2. *Blocked cells* - Black
-	3. *Start and End cells* - Blue and Red
-	4. *Explored cells* - Yellow
-	5. *Shortest Path of Dijkstra* - Green
+	1. Unexplored cells ->White
+	2. Blocked cells -> Black
+	3. Start cell -> Blue
+	4. End cell -> Red 
+	5. Explored cells -> Pink
+	6. Shortest Path by Dijkstra  -> Green
+	7. Shortest Path by A-star  ->  Yellow
+	8. Green button-> Dijkstra
+	9. Red button-> A*
+	10. Distance-1 : Dijkstra path length 
+	11. Distance-2 : A* path length
+	11. The horizontal and vertical movement cost -> 1
+	12. Diagonal cost -> √2.
+
 
 2. **Major components** :
-	1. Main loop to render frames at 60 frames/second
+	1. Main loop 
 	2. Dijkstra program
+	3. A*
 
 3. **Implementation** :
 	1. Map as 2D array of cells
