@@ -1,4 +1,6 @@
 # Shortest-path-2D
+![Screenshot from 2020-12-18 19-58-29](https://user-images.githubusercontent.com/30202180/102688205-1d6a7b80-421b-11eb-8eb7-3f16fb2da95a.png)
+
 
 1. **Color coding** :
 	1. Unexplored cells ->White
