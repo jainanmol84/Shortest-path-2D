@@ -40,7 +40,7 @@
 		1. `cd Shortest-Path-2D` 
 	2. **Install sfml**: `sudo apt-get install libsfml-dev`
 	3. **Complile path.cpp** :
-		1. `g++ path.cpp -std=c++11 -lsfml-window -lsfml-system -lsfml-graphics`
+		1. `g++ main.cpp -std=c++11 -lsfml-window -lsfml-system -lsfml-graphics`
 	4. **Run the exectuable** : `./a.out`
 
 3. **Supported operations:**
