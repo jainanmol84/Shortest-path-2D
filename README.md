@@ -37,7 +37,7 @@
 
 4. **## Build For Linux user ##**
 	1. **Download the zip file then unzip at the location 'Home'**:
-		1. `cd Shortest-Path-2D` 
+		1. `cd Shortest-path-2D-main` 
 	2. **Install sfml**: `sudo apt-get install libsfml-dev`
 	3. **Complile path.cpp** :
 		1. `g++ main.cpp -std=c++11 -lsfml-window -lsfml-system -lsfml-graphics`
