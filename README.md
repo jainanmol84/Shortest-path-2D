@@ -1,9 +1,11 @@
 # Shortest-path-2D
 
-https://user-images.githubusercontent.com/30202180/102689209-4c382000-4222-11eb-9122-77032243c79e.mp4
+
+![WhatsApp Video 2020-12-19 at 5 32 27 PM](https://user-images.githubusercontent.com/30202180/102689291-f2842580-4222-11eb-845f-e498a57fb349.gif)
+![WhatsApp Video 2020-12-19 at 5 36 30 PM](https://user-images.githubusercontent.com/30202180/102689297-f617ac80-4222-11eb-9e7e-54350cf28538.gif)
 
 
-https://user-images.githubusercontent.com/30202180/102689211-4f331080-4222-11eb-9b9d-19587a40913a.mp4
+
 
 
 1. **Color coding** :
