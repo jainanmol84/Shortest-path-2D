@@ -16,8 +16,8 @@
 	5. Explored cells -> Pink
 	6. Shortest Path by Dijkstra  -> Green
 	7. Shortest Path by A-star  ->  Yellow
-	8. Green button-> Dijkstra
-	9. Red button-> A*
+	8. Green button(PathD-1)-> Dijkstra
+	9. Red button(PathA-2)-> A*
 	10. Distance-1 : Dijkstra path length 
 	11. Distance-2 : A* path length
 	11. The horizontal and vertical movement cost -> 1
