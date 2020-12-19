@@ -45,4 +45,4 @@
 
 3. **Supported operations:**
 	1.  You can left click on blocks to draw black walls on the grid.
-	2.  Search using either Dijkstra by clicking the Green button.
+	2.  Search using either Dijkstra or A* pathdinging algorithm by clicking the respective buttons.
