@@ -1,13 +1,25 @@
-# Kickstart Features
+# IsoBuilder Features
 
-The kickstart config file is a json format file with the following possible parameters:
+Before - We can only parse arguments through cmd line
 
+Example:
+  ```json
+ photon-iso-builder -v <photon-release-version> -i <path/to/custom-initrd-pkg-list-file> -f build-initrd -p <path/to/custom-package-list-json>  
+  ``` 
 
-### _"additional_files":_ (optional)
+Now a user can also parse arguments from a YAML file 
+Example:
+  ```json
+ python3 isoBuilder.py -y /path/config.yaml  
+  ``` 
+config.yaml:
+  ```json
+ photon_release_version: '5.0'
+ function: build-initrd
+ packageslist_file: /path/packages_minimal.json
+ initrd_pkgs_list_file: /path/packages_installer_initrd.json
+  ``` 
 
-- Contains list of pairs { source file (or directory), destination file
-(or directory) } to copy to the target system. Source file
-(directory) will be looked up in "search_path" list.
 
   Example:
   ```json
