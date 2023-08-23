@@ -2,15 +2,15 @@
 
 Before - We can only parse arguments through cmd line
 
-Example:
+
   ```json
- photon-iso-builder -v <photon-release-version> -i <path/to/custom-initrd-pkg-list-file> -f build-initrd -p <path/to/custom-package-list-json>  
+ Example: photon-iso-builder -v <photon-release-version> -i <path/to/custom-initrd-pkg-list-file> -f build-initrd -p <path/to/custom-package-list-json>  
   ``` 
 
 Now a user can also parse arguments from a YAML file 
-Example:
+
   ```json
- python3 isoBuilder.py -y /path/config.yaml  
+ Example: python3 isoBuilder.py -y /path/config.yaml  
   ``` 
 config.yaml:
   ```json
